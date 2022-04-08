@@ -1,11 +1,11 @@
 ---
-title: "La cultura de un desarrollador de sotfware"
+title: "La cultura de un desarrollador de software"
 date: 2022-02-21T18:16:21-06:00
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 ¡Hola! 
 
-Conforme a mi poca experiencia y mi opinion la cultura en el entorno del desarrollo de sotfwre se basa en:
+Conforme a mi poca experiencia y mi opinion la cultura en el entorno del desarrollo de software se basa en:
 
 - Comunicación
 - Flexibilidad
